@@ -7,9 +7,23 @@
     "price": 59.99,
     "releaseDate": "2019-03-22",
     "isMultiplayer": false,
-    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/shadow-warrior-scales-stockcake.webp",
+    "imageUrl": "https://example.com/images/games/sekiro.jpg",
     "platforms": ["PC", "PS4", "Xbox One"],
-    "difficulty": "Hard"
-
+    "difficulty": "Hard",
+    "developer": {
+      "id": "DEV-001",
+      "name": "FromSoftware",
+      "foundedYear": 1986,
+      "headquarters": "Tokyo, Japan",
+      "logoUrl": "https://example.com/images/developers/fromsoftware-logo.jpg",
+      "independentStudio": true,
+      "notableTitles": [
+        "Dark Souls",
+        "Bloodborne",
+        "Elden Ring",
+        "Armored Core"
+      ]
+    }
   }
 ]
+
