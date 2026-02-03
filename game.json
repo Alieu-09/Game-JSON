@@ -7,7 +7,7 @@
     "price": 59.99,
     "releaseDate": "2019-03-22",
     "isMultiplayer": false,
-    "imageUrl": "https://example.com/images/games/sekiro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/shadow-warrior-scales-stockcake.webp",
     "platforms": ["PC", "PS4", "Xbox One"],
     "difficulty": "Hard",
     "developer": {
