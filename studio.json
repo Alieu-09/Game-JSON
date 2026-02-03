@@ -1,0 +1,18 @@
+[
+  {
+    "id": "STUDIO-001",
+    "name": "FromSoftware",
+    "country": "Japan",
+    "foundedYear": 1986,
+    "founder": "Naotoshi Zin",
+    "headquarters": "Tokyo, Japan",
+    "logoUrl": "https://example.com/images/studios/fromsoftware-logo.png",
+    "isIndependent": true,
+    "notableGames": [
+      "Sekiro: Shadows Die Twice",
+      "Dark Souls Trilogy",
+      "Bloodborne",
+      "Elden Ring"
+    ]
+  }
+]

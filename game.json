@@ -1,0 +1,15 @@
+[
+  {
+    "id": "GAME-001",
+    "title": "Sekiro: Shadows Die Twice",
+    "description": "Sekiro: Shadows Die Twice is een actie-avonturenspel ontwikkeld door FromSoftware, bekend om zijn uitdagende gevechten, precieze zwaardmechanics en een sfeervolle Japanse Sengoku-setting.",
+    "genre": "Action-Adventure",
+    "price": 59.99,
+    "releaseDate": "2019-03-22",
+    "isMultiplayer": false,
+    "imageUrl": "https://example.com/images/games/sekiro.jpg",
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "difficulty": "Hard"
+
+  }
+]
