@@ -8,11 +8,102 @@
     "headquarters": "Tokyo, Japan",
     "logoUrl": "https://example.com/images/studios/fromsoftware-logo.png",
     "isIndependent": true,
-    "notableGames": [
-      "Sekiro: Shadows Die Twice",
-      "Dark Souls Trilogy",
-      "Bloodborne",
-      "Elden Ring"
+    "notableGameIds": [
+      "GAME-001",
+      "GAME-002",
+      "GAME-006"
+    ]
+  },
+  {
+    "id": "STUDIO-002",
+    "name": "CD Projekt Red",
+    "country": "Poland",
+    "foundedYear": 2002,
+    "founder": "Marcin Iwiński",
+    "headquarters": "Warsaw, Poland",
+    "logoUrl": "https://example.com/images/studios/cdpr.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-003",
+      "GAME-004"
+    ]
+  },
+  {
+    "id": "STUDIO-003",
+    "name": "Santa Monica Studio",
+    "country": "USA",
+    "foundedYear": 1999,
+    "founder": "Allan Becker",
+    "headquarters": "California, USA",
+    "logoUrl": "https://example.com/images/studios/santa-monica.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-005"
+    ]
+  },
+  {
+    "id": "STUDIO-004",
+    "name": "Team Cherry",
+    "country": "Australia",
+    "foundedYear": 2014,
+    "founder": "Ari Gibson",
+    "headquarters": "Adelaide, Australia",
+    "logoUrl": "https://example.com/images/studios/team-cherry.png",
+    "isIndependent": true,
+    "notableGameIds": [
+      "GAME-006"
+    ]
+  },
+  {
+    "id": "STUDIO-005",
+    "name": "Rockstar Games",
+    "country": "USA",
+    "foundedYear": 1998,
+    "founder": "Sam Houser",
+    "headquarters": "New York, USA",
+    "logoUrl": "https://example.com/images/studios/rockstar.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-007"
+    ]
+  },
+  {
+    "id": "STUDIO-006",
+    "name": "Mojang Studios",
+    "country": "Sweden",
+    "foundedYear": 2009,
+    "founder": "Markus Persson",
+    "headquarters": "Stockholm, Sweden",
+    "logoUrl": "https://example.com/images/studios/mojang.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-008"
+    ]
+  },
+  {
+    "id": "STUDIO-007",
+    "name": "Epic Games",
+    "country": "USA",
+    "foundedYear": 1991,
+    "founder": "Tim Sweeney",
+    "headquarters": "North Carolina, USA",
+    "logoUrl": "https://example.com/images/studios/epic.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-009"
+    ]
+  },
+  {
+    "id": "STUDIO-008",
+    "name": "Ubisoft",
+    "country": "France",
+    "foundedYear": 1986,
+    "founder": "Guillemot family",
+    "headquarters": "Paris, France",
+    "logoUrl": "https://example.com/images/studios/ubisoft.png",
+    "isIndependent": false,
+    "notableGameIds": [
+      "GAME-010"
     ]
   }
 ]

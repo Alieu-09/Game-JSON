@@ -11,7 +11,7 @@
     "platforms": ["PC", "PS4", "Xbox One"],
     "difficulty": "Hard",
     "developer": {
-      "id": "DEV-001",
+      "id": "STUDIO-001",
       "name": "FromSoftware",
       "foundedYear": 1986,
       "headquarters": "Tokyo, Japan",
@@ -24,6 +24,216 @@
         "Armored Core"
       ]
     }
+  },
+   {
+    "id": "GAME-002",
+    "title": "Elden Ring",
+    "description": "An open-world fantasy RPG with brutal combat and exploration.",
+    "genre": "RPG",
+    "price": 69.99,
+    "releaseDate": "2022-02-25",
+    "isMultiplayer": true,
+    "imageUrl": "https://example.com/eldenring.jpg",
+    "platforms": ["PC", "PS5", "Xbox Series X"],
+    "difficulty": "Very Hard",
+    "developer": {
+      "id": "STUDIO-001",
+      "name": "FromSoftware",
+      "foundedYear": 1986,
+      "headquarters": "Tokyo, Japan",
+      "logoUrl": "https://example.com/fromsoft.jpg",
+      "independentStudio": true,
+      "notableTitles": ["Dark Souls", "Bloodborne"]
+    }
+  },
+  {
+    "id": "GAME-003",
+    "title": "Cyberpunk 2077",
+    "description": "Open-world RPG set in a futuristic cyber city.",
+    "genre": "RPG",
+    "price": 49.99,
+    "releaseDate": "2020-12-10",
+    "isMultiplayer": false,
+    "imageUrl": "https://example.com/cyberpunk.jpg",
+    "platforms": ["PC", "PS5", "Xbox"],
+    "difficulty": "Medium",
+    "developer": {
+      "id": "STUDIO-002",
+      "name": "CD Projekt Red",
+      "foundedYear": 2002,
+      "headquarters": "Warsaw, Poland",
+      "logoUrl": "https://example.com/cdpr.jpg",
+      "independentStudio": false,
+      "notableTitles": ["The Witcher 3"]
+    }
+  },
+  {
+  "id": "GAME-004",
+  "title": "The Witcher 3: Wild Hunt",
+  "description": "Een verhaalgedreven open wereld RPG waarin je als Geralt van Rivia monsters jaagt in een oorlog verscheurde fantasiewereld.",
+  "genre": "RPG",
+  "price": 39.99,
+  "releaseDate": "2015-05-19",
+  "isMultiplayer": false,
+  "imageUrl": "https://example.com/witcher3.jpg",
+  "platforms": ["PC", "PS4", "Xbox One", "Switch"],
+  "difficulty": "Medium",
+  "developer": {
+    "id": "STUDIO-002",
+    "name": "CD Projekt Red",
+    "foundedYear": 2002,
+    "headquarters": "Warsaw, Poland",
+    "logoUrl": "https://example.com/cdpr.jpg",
+    "independentStudio": false,
+    "notableTitles": ["Cyberpunk 2077", "The Witcher 3"]
   }
+},
+{
+  "id": "GAME-005",
+  "title": "God of War",
+  "description": "Kratos en zijn zoon reizen door de wereld van de Noorse mythologie in een emotioneel en gewelddadig avontuur.",
+  "genre": "Action",
+  "price": 49.99,
+  "releaseDate": "2018-04-20",
+  "isMultiplayer": false,
+  "imageUrl": "https://example.com/godofwar.jpg",
+  "platforms": ["PS4", "PC"],
+  "difficulty": "Hard",
+  "developer": {
+    "id": "STUDIO-003",
+    "name": "Santa Monica Studio",
+    "foundedYear": 1999,
+    "headquarters": "California, USA",
+    "logoUrl": "https://example.com/santamonica.jpg",
+    "independentStudio": false,
+    "notableTitles": ["God of War"]
+  }
+},
+{
+  "id": "GAME-006",
+  "title": "Hollow Knight",
+  "description": "Een donkere metroidvania waarin je een verlaten ondergrondse wereld vol geheimen verkent.",
+  "genre": "Platformer",
+  "price": 14.99,
+  "releaseDate": "2017-02-24",
+  "isMultiplayer": false,
+  "imageUrl": "https://example.com/hollowknight.jpg",
+  "platforms": ["PC", "Switch", "PS4", "Xbox One"],
+  "difficulty": "Hard",
+  "developer": {
+    "id": "STUDIO-004",
+    "name": "Team Cherry",
+    "foundedYear": 2014,
+    "headquarters": "Australia",
+    "logoUrl": "https://example.com/teamcherry.jpg",
+    "independentStudio": true,
+    "notableTitles": ["Hollow Knight"]
+  }
+},
+{
+  "id": "GAME-007",
+  "title": "Red Dead Redemption 2",
+  "description": "Een episch westernverhaal over een outlaw-bende die probeert te overleven in een veranderende wereld.",
+  "genre": "Action-Adventure",
+  "price": 59.99,
+  "releaseDate": "2018-10-26",
+  "isMultiplayer": true,
+  "imageUrl": "https://example.com/rdr2.jpg",
+  "platforms": ["PC", "PS4", "Xbox One"],
+  "difficulty": "Medium",
+  "developer": {
+    "id": "STUDIO-005",
+    "name": "Rockstar Games",
+    "foundedYear": 1998,
+    "headquarters": "New York, USA",
+    "logoUrl": "https://example.com/rockstar.jpg",
+    "independentStudio": false,
+    "notableTitles": ["GTA V", "RDR2"]
+  }
+},
+{
+  "id": "GAME-008",
+  "title": "Minecraft",
+  "description": "Een sandboxspel waarin spelers bouwen, verkennen en overleven in een wereld van blokken.",
+  "genre": "Sandbox",
+  "price": 26.95,
+  "releaseDate": "2011-11-18",
+  "isMultiplayer": true,
+  "imageUrl": "https://example.com/minecraft.jpg",
+  "platforms": ["PC", "Mobile", "Console"],
+  "difficulty": "Easy",
+  "developer": {
+    "id": "STUDIO-006",
+    "name": "Mojang Studios",
+    "foundedYear": 2009,
+    "headquarters": "Stockholm, Sweden",
+    "logoUrl": "https://example.com/mojang.jpg",
+    "independentStudio": false,
+    "notableTitles": ["Minecraft"]
+  }
+},
+{
+  "id": "GAME-009",
+  "title": "Fortnite",
+  "description": "Een battle royale shooter waarin spelers vechten om als laatste over te blijven met bouwmechanieken en snelle actie.",
+  "genre": "Shooter",
+  "price": 0,
+  "releaseDate": "2017-07-21",
+  "isMultiplayer": true,
+  "imageUrl": "https://example.com/fortnite.jpg",
+  "platforms": ["PC", "PS5", "Xbox", "Mobile"],
+  "difficulty": "Medium",
+  "developer": {
+    "id": "STUDIO-007",
+    "name": "Epic Games",
+    "foundedYear": 1991,
+    "headquarters": "North Carolina, USA",
+    "logoUrl": "https://example.com/epicgames.jpg",
+    "independentStudio": false,
+    "notableTitles": ["Fortnite", "Unreal Engine"]
+  }
+},
+{
+  "id": "GAME-010",
+  "title": "Assassin’s Creed Valhalla",
+  "description": "Een Viking-avontuur waarin je Engeland en Noorwegen verkent tijdens grote veldslagen en intriges.",
+  "genre": "Action-RPG",
+  "price": 59.99,
+  "releaseDate": "2020-11-10",
+  "isMultiplayer": false,
+  "imageUrl": "https://example.com/acvalhalla.jpg",
+  "platforms": ["PC", "PS5", "Xbox Series X"],
+  "difficulty": "Medium",
+  "developer": {
+    "id": "STUDIO-008",
+    "name": "Ubisoft",
+    "foundedYear": 1986,
+    "headquarters": "Paris, France",
+    "logoUrl": "https://example.com/ubisoft.jpg",
+    "independentStudio": false,
+    "notableTitles": ["Assassin's Creed", "Far Cry"]
+  }
+},
+{
+  "id": "GAME-011",
+  "title": "Bloodborne",
+  "description": "Een duistere actie-RPG waarin je door de vervloekte stad Yharnam vecht tegen nachtmerrieachtige wezens.",
+  "genre": "Action-RPG",
+  "price": 19.99,
+  "releaseDate": "2015-03-24",
+  "isMultiplayer": false,
+  "imageUrl": "https://example.com/bloodborne.jpg",
+  "platforms": ["PS4"],
+  "difficulty": "Very Hard",
+  "developer": {
+    "id": "STUDIO-001",
+    "name": "FromSoftware",
+    "foundedYear": 1986,
+    "headquarters": "Tokyo, Japan",
+    "logoUrl": "https://example.com/fromsoft.jpg",
+    "independentStudio": true,
+    "notableTitles": ["Dark Souls", "Elden Ring", "Sekiro"]
+  }
+}
 ]
 
