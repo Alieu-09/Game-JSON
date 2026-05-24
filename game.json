@@ -7,7 +7,7 @@
     "price": 59.99,
     "releaseDate": "2019-03-22",
     "isMultiplayer": false,
-    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/shadow-warrior-scales-stockcake.webp",
+    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/sekiro%20cover.png",
     "platforms": ["PC", "PS4", "Xbox One"],
     "difficulty": "Hard",
     "developer": {
@@ -33,7 +33,7 @@
     "price": 69.99,
     "releaseDate": "2022-02-25",
     "isMultiplayer": true,
-    "imageUrl": "https://example.com/eldenring.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/elden%20ring%20cover.png",
     "platforms": ["PC", "PS5", "Xbox Series X"],
     "difficulty": "Very Hard",
     "developer": {
@@ -54,7 +54,7 @@
     "price": 49.99,
     "releaseDate": "2020-12-10",
     "isMultiplayer": false,
-    "imageUrl": "https://example.com/cyberpunk.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/cyberpunk%20cover.png",
     "platforms": ["PC", "PS5", "Xbox"],
     "difficulty": "Medium",
     "developer": {
