@@ -6,7 +6,7 @@
     "foundedYear": 1986,
     "founder": "Naotoshi Zin",
     "headquarters": "Tokyo, Japan",
-    "logoUrl": "https://example.com/images/studios/fromsoftware-logo.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/fromsoft%20logo.png",
     "isIndependent": true,
     "notableGameIds": [
       "GAME-001",
@@ -21,7 +21,7 @@
     "foundedYear": 2002,
     "founder": "Marcin Iwiński",
     "headquarters": "Warsaw, Poland",
-    "logoUrl": "https://example.com/images/studios/cdpr.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/cd%20projekt.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-003",
@@ -35,7 +35,7 @@
     "foundedYear": 1999,
     "founder": "Allan Becker",
     "headquarters": "California, USA",
-    "logoUrl": "https://example.com/images/studios/santa-monica.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/santa%20monica%20studio.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-005"
@@ -48,7 +48,7 @@
     "foundedYear": 2014,
     "founder": "Ari Gibson",
     "headquarters": "Adelaide, Australia",
-    "logoUrl": "https://example.com/images/studios/team-cherry.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/team%20cherry.png",
     "isIndependent": true,
     "notableGameIds": [
       "GAME-006"
@@ -61,7 +61,7 @@
     "foundedYear": 1998,
     "founder": "Sam Houser",
     "headquarters": "New York, USA",
-    "logoUrl": "https://example.com/images/studios/rockstar.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/rockstar%20games.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-007"
@@ -74,7 +74,7 @@
     "foundedYear": 2009,
     "founder": "Markus Persson",
     "headquarters": "Stockholm, Sweden",
-    "logoUrl": "https://example.com/images/studios/mojang.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/mojang%20studios.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-008"
@@ -87,7 +87,7 @@
     "foundedYear": 1991,
     "founder": "Tim Sweeney",
     "headquarters": "North Carolina, USA",
-    "logoUrl": "https://example.com/images/studios/epic.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/epic%20games.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-009"
@@ -100,7 +100,7 @@
     "foundedYear": 1986,
     "founder": "Guillemot family",
     "headquarters": "Paris, France",
-    "logoUrl": "https://example.com/images/studios/ubisoft.png",
+    "logoUrl": "https://raw.githubusercontent.com/Alieu-09/Game-JSON/refs/heads/main/Images/ubisoft.png",
     "isIndependent": false,
     "notableGameIds": [
       "GAME-010"
